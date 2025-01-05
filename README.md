@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="start">Hi 👋, I'm Saurabh Kumar</h1>
+<h3 align="start">I turn ideas into smooth digital experiences and push the web forward with every project I work on. I focus on creating simple solutions to complex challenges and constantly evolve the web with each line of code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkumar067&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkumar067" /> </p>
+- 🔭 I’m currently working on **AARNA AI Project**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkumar067" alt="saurabhkumar067" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/saurabhkumar067?tab=repositories](https://github.com/saurabhkumar067?tab=repositories)
 
-- 🔭 I’m currently working on **AARNA AI**
-
-- 👨‍💻 All of my projects are available at [https://saurabhkumar.vercel.app/](https://saurabhkumar.vercel.app/)
+- 💼 Visit my portfolio [https://saurabhkumar.vercel.app/](https://saurabhkumar.vercel.app/)
 
 - 📫 How to reach me **saurabhkumar22278@gmail.com**
 
