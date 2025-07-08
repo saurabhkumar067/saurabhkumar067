@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saurabhkumar22278@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/saurabhkumar067/Resume/blob/main/Saurabh%20Kumar.pdf)
+- 📄 Know about my experiences [Resume]([https://github.com/saurabhkumar067/Resume/blob/main/Saurabh%20Kumar.pdf](https://github.com/saurabhkumar067/Resume/blob/main/Saurabh%20CV.pdf))
 
 - ⚡ Fun fact **Tabs over spaces, but coffee over everything.**
 
