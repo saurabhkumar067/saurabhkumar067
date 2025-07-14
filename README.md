@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I turn ideas into smooth digital experiences and p
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on the **AARNA AI Project**
-- 🌱 Continuously learning new technologies and improving my coding skills
+- 🌱 Currently learning new technologies and sharpening my coding skills.
 - 👨‍💻 Check out all my work here on [GitHub](https://github.com/saurabhkumar067?tab=repositories)
 - 💼 View my personal [Portfolio](https://saurabhkumar.vercel.app/)
 - 💬 Ask me about **JavaScript, React.js, and Web Development**
