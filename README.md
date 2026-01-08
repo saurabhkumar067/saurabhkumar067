@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I turn ideas into smooth digital experiences and p
 - 💼 View my personal [Portfolio](https://saurabhkumar.vercel.app/)
 - 💬 Ask me about **JavaScript, React.js, and Web Development**
 - 📫 Reach out at **saurabhkumar22278@gmail.com**
-- 📄 Here’s my [Resume](https://github.com/saurabhkumar067/Resume/blob/main/Saurabh%20CV.pdf)
 - ⚡ Fun fact: I prefer tabs over spaces, but coffee over everything ☕
 
 ---
