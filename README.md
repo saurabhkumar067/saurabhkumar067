@@ -1,4 +1,4 @@
-# Hi there, I'm Saurabh Kumar 👋
+d# Hi there, I'm Saurabh Kumar 👋
 
 Welcome to my GitHub profile! I turn ideas into smooth digital experiences and push the web forward with every project I work on. I enjoy solving complex problems with simple, elegant solutions and strive to grow with every line of code I write.
 
@@ -18,8 +18,9 @@ Welcome to my GitHub profile! I turn ideas into smooth digital experiences and p
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages:** JavaScript
-- **Web Development:** HTML, CSS, React.js, Next.js, Tailwind CSS
-- **Tools:** Git
+- **Web Development:** HTML, CSS, React.js, Next.js, Tailwind CSS, Bootstrap
+- **Tools:** Git/Github, Webpack, Vite, LocalStorage
+- **Additional Interest:** Wordpress, Shopify Developer
 
 ---
 
