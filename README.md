@@ -17,10 +17,10 @@ Welcome to my GitHub profile! I turn ideas into smooth digital experiences and p
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** JavaScript
-- **Web Development:** HTML, CSS, React.js, Next.js, Tailwind CSS, Bootstrap
-- **Tools:** Git/Github, Webpack, Vite, LocalStorage
-- **Additional Interest:** Wordpress, Shopify Developer
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap, GSAP
+- **State & API:** Context API, Axios, Fetch API
+- **Tools & Deployment:** Git, GitHub, Webpack, Vite, LocalStorage, Vercel, Netlify
+- **UI/UX & Performance:** Responsive Design, Accessibility, SEO, Cross-Browser Compatibility, Lazy Loading, Code Splitting
 
 ---
 
